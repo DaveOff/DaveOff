@@ -1,4 +1,4 @@
-## Yelloww <img src="https://raw.githubusercontent.com/DaveOff/DaveOff/main/wave.gif" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=DaveOff&color=269077">
+## Yelloww <img align="right" src="https://komarev.com/ghpvc/?username=DaveOff&color=269077">
 
 I am Rf, people call me carrots i don't know why 🙃 I am a full stack developer & founder of Faranevis. Find out more about me and feel free to connect with me here
 
