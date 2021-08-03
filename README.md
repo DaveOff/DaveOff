@@ -1,7 +1,7 @@
 
 <div style="display: block;margin: 0 auto;">
   <img style="display: inline-block;" align="right" src="https://komarev.com/ghpvc/?username=DaveOff&color=269077"/>
-  <img style="display: inline-block;" align="left" src="https://www.faranevis.com/badge"/>
+  <img style="display: inline-block;" align="right" src="https://www.faranevis.com/badge"/>
 </div>
 
 
