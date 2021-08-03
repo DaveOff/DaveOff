@@ -1,7 +1,7 @@
 <div align="right">
   <a href="#">
-    <img style="display: inline-block;" src="https://www.faranevis.com/badge"/>
-    <img style="display: inline-block;" src="https://komarev.com/ghpvc/?username=DaveOff&color=ff8739"/>
+    <img src="https://www.faranevis.com/badge"/>
+    <img src="https://komarev.com/ghpvc/?username=DaveOff&color=ff8739"/>
   </a>
 </div>
 
