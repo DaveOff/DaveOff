@@ -1,6 +1,6 @@
 <div align="right">
-  <img style="display: inline-block;" src="https://www.faranevis.com/badge"/>
-  <img style="display: inline-block;" src="https://komarev.com/ghpvc/?username=DaveOff&color=ff8739"/>
+  <a href="#"><img style="display: inline-block;" src="https://www.faranevis.com/badge"/></a>
+  <a href="#"><img style="display: inline-block;" src="https://komarev.com/ghpvc/?username=DaveOff&color=ff8739"/></a>
 </div>
 
 <p align="center">
