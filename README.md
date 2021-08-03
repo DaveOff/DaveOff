@@ -1,9 +1,12 @@
-## Yelloww <img align="right" src="https://komarev.com/ghpvc/?username=DaveOff&color=269077">
+<div>
+  <img align="right" src="https://komarev.com/ghpvc/?username=DaveOff&color=269077"/>
+  <img align="left" src="https://www.faranevis.com/badge"/>
+</div>
 
-I am Rf, people call me carrots i don't know why 🙃 I am a full stack developer & founder of Faranevis. Find out more about me and feel free to connect with me here
+<div>
+  <hr align="center"></hr>
+</div>
 
-[![](https://img.shields.io/badge/-rf__dev-blue?style=social-square&logo=Twitter&logoColor=white&link=https://twitter.com/rf__dev/)](https://twitter.com/rf__dev)
-[![](https://img.shields.io/badge/-Faranevis-c14438?style=social-square&link=https://faranevis.com)](https://faranevis.com)
-
-## Checkout My New Badge 🤪
-[![](https://www.faranevis.com/badge?op=-1)](#)
+<p align="center">
+  <a href="#"><img src="https://www.faranevis.com/badge/1.php?op=-514544545541#center"/></a>
+</p>
